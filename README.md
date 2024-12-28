@@ -1,4 +1,4 @@
- # Algorithmic DataScience Questions
+ # 10 Algorithmic Data Science Questions
  Here is a list of 10 Python-based algorithmic questions that might be asked during a data science or machine learning job interview.
 
 ## 1. Sorting Algorithms
