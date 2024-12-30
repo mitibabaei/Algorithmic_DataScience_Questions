@@ -2,24 +2,24 @@
  Here is a list of 10 Python-based algorithmic questions that might be asked during a data science or machine learning job interview.
 
 ## 1. Sorting Algorithms
-Question: You are given an unsorted list of numbers. How would you sort them? Explain and implement the sorting algorithm of your choice.
-Follow-up: Discuss the time and space complexity of your chosen algorithm. Compare with alternatives like QuickSort, MergeSort, and BubbleSort.
+You are given an unsorted list of numbers. How would you sort them? Explain and implement the sorting algorithm of your choice.
+
 
 ## 2. Find the Median
-Question: Given a list of numbers, find the median without sorting the entire list. Explain your approach.
-Follow-up: Use the QuickSelect algorithm or Min/Max Heaps for efficiency.
+Given a list of numbers, find the median without sorting the entire list. Explain your approach.
+
 
 ## 3. Remove Duplicates
-Question: Given a list of numbers, write a Python function to remove all duplicates while maintaining the original order.
-Follow-up: Discuss the time and space complexity of your solution.
+Given a list of numbers, write a Python function to remove all duplicates while maintaining the original order.
+
 
 ## 4. Anomaly Detection
-Question: Implement a function that identifies outliers in a dataset using statistical measures like mean and standard deviation.
-Follow-up: Explain how your algorithm would handle large-scale data and how to optimize it.
+Implement a function that identifies outliers in a dataset using statistical measures like mean and standard deviation.
+
 
 ## 5. K-Nearest Neighbors (KNN)
-Question: Write a Python implementation of the KNN algorithm for a classification and regression problem.
-Follow-up: How would you optimize KNN for a high-dimensional dataset?
+Write a Python implementation of the KNN algorithm for a classification and regression problem.
+
 
 ## 6. Clustering
 Question: Implement the k-means clustering algorithm from scratch. Given a dataset, group the points into k clusters.
