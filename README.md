@@ -18,7 +18,7 @@ Question: Implement a function that identifies outliers in a dataset using stati
 Follow-up: Explain how your algorithm would handle large-scale data and how to optimize it.
 
 ## 5. K-Nearest Neighbors (KNN)
-Question: Write a Python implementation of the KNN algorithm for a classification problem. Include steps for distance computation and majority voting.
+Question: Write a Python implementation of the KNN algorithm for a classification and regression problem.
 Follow-up: How would you optimize KNN for a high-dimensional dataset?
 
 ## 6. Clustering
