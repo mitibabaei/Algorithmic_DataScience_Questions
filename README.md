@@ -21,7 +21,7 @@ Implement a function that identifies outliers in a dataset using statistical mea
 Write a Python implementation of the KNN algorithm for a classification and regression problem.
 
 
-### 6. Clustering
+### 6. k-means Clustering
 Question: Implement the k-means clustering algorithm from scratch. Given a dataset, group the points into k clusters.
 Follow-up: How do you handle scenarios where the clusters do not converge?
 
