@@ -21,9 +21,9 @@ Implement a function that identifies outliers in a dataset using statistical mea
 Write a Python implementation of the KNN algorithm for a classification and regression problem.
 
 
-### 6. k-means Clustering
-Question: Implement the k-means clustering algorithm from scratch. Given a dataset, group the points into k clusters.
-Follow-up: How do you handle scenarios where the clusters do not converge?
+### 6. K-Means Clustering
+Implement the k-means clustering algorithm from scratch. Given a dataset, group the points into k clusters.
+How do you handle scenarios where the clusters do not converge?
 
 ### 7. String Matching
 Question: Implement an algorithm to check if a string is a subsequence of another string. For example, "abc" is a subsequence of "aebdc".
